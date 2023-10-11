@@ -14,5 +14,5 @@
 ![carrinho-etapa-2-desktop_30bba4603f11410b96b2468b5e62d53a](https://github.com/macielhenrique/CardapioOnlineWhatsapp/assets/62320094/24cd9886-5f7d-48fc-8a85-e78de339a5f4)
 
 
-##Etapa-3
+## Etapa-3
 ![carrinho-etapa-3-desktop_71cdaa38c6f14fed963390336860b0a2](https://github.com/macielhenrique/CardapioOnlineWhatsapp/assets/62320094/99873045-3478-44d5-93fa-40a4a55247d3)
